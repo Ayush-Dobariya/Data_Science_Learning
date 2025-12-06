@@ -1,0 +1,11 @@
+When boy first opened his laptop, 
+the word python was already on his mind. 
+He launched his editor, typed a few lines of python code, 
+and smiled as the script ran flawlessly. Later, he explored advanced python libraries, 
+realizing how versatile python could be for web design, data analysis, and even automation. 
+The more he practiced python, the more confident he became, until python felt less like a tool 
+and more like a creative companion guiding his projects.
+python
+python
+python
+python

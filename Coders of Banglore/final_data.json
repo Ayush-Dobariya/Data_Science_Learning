@@ -1,0 +1,87 @@
+{
+    "users":[
+        {
+            "id":"theabhimanyubhardwaj",
+            "name":"Abhimanyu Bhardwaj",
+            "posts":8,
+            "followers":2,
+            "following":62,
+            "category":"Not Specified"
+        },
+        {
+            "id":"callmila.ai",
+            "name":"CallMila AI",
+            "posts":0,
+            "followers":5,
+            "following":39,
+            "category":"Tech"
+        },
+        {
+            "id":"ran.ataluldar",
+            "name":"Ranataluldar",
+            "posts":1,
+            "followers":17,
+            "following":408,
+            "category":"Not Specified"
+        },
+        {
+            "id":"jessenwow",
+            "name":"jessen",
+            "posts":0,
+            "followers":6,
+            "following":36,
+            "category":"Not Specified"
+        },
+        {
+            "id":"rebecca_vergara1",
+            "name":"Rebecca Vergara",
+            "posts":0,
+            "followers":0,
+            "following":10,
+            "category":"Not Specified"
+        },
+        {
+            "id":"techtuition12",
+            "name":"Tech Tuition",
+            "posts":27,
+            "followers":814,
+            "following":194,
+            "category":"Tech"
+        },
+        {
+            "id":"codewithharry",
+            "name":"Haris Ali Khan",
+            "posts":996,
+            "followers":672000,
+            "following":445,
+            "category":"Tech"
+        },
+        {
+            "id":"rajveersinh_dodiya_8",
+            "name":"Rajveersinh_08",
+            "posts":2,
+            "followers":454,
+            "following":323,
+            "category":"Not Specified"
+        },
+        {
+            "id":"gaming_izzxi",
+            "name":"Pranav Sharma",
+            "posts":89,
+            "followers":140,
+            "following":571,
+            "category":"Gaming"
+        },
+        {
+            "id":"bharat_singh_ooo3",
+            "name":"bharat_singh_ooo3",
+            "posts":0,
+            "followers":146,
+            "following":146,
+            "category":"Not Specified"
+        }
+
+
+    ]
+
+}
